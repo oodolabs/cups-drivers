@@ -1,3 +1,3 @@
-cups-drivers
+CUPS Drivers
 --
 > CUPS drivers package
